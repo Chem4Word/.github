@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is the home for all things realated to Chem4Word 👋
 
 <!--
 
