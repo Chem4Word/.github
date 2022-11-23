@@ -4,7 +4,7 @@ Our main web site is at https://www.chem4word.co.uk/
 
 Here you will find out lots of information about Chem4Word including it's history
 
-We are on <a rel="me" href="https://fosstodon.org/@chem4word">Mastodon</a>
+We are on Mastodon <a href="https://fosstodon.org/@chem4word" rel="nofollow"></a><a href="https://fosstodon.org/@chem4word" rel="nofollow">https://fosstodon.org/@chem4word</a>
 
 <!--
 
