@@ -8,6 +8,8 @@ We are on <a href="https://fosstodon.org/@chem4word" rel="me">Mastodon</a> - <a 
 
 If you like our work, please consider donating at <a href="https://www.buymeacoffee.com/chem4word">Buy Me A Coffee</a>
 
+<a href="https://www.buymeacoffee.com/chem4word"><img src="https://github.com/Chem4Word/.github/blob/main/profile/Buy%20Me%20A%20Coffee.png" width=200 height=200 alt="Buy us a coffee" title="Buy us a coffee"></a>
+
 <!--
 
 **Here are some ideas to get you started:**
