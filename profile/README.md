@@ -6,7 +6,7 @@ Here you will find out lots of information about Chem4Word including it's histor
 
 We are on <a href="https://fosstodon.org/@chem4word" rel="me">Mastodon</a> - <a href="https://fosstodon.org/@chem4word" rel="me">https://fosstodon.org/@chem4word</a>
 
-You can indiviually sponsor us by donating at <a href="https://www.buymeacoffee.com/chem4word">Buy Me A Coffee</a>
+If you like our work, please consider donating at <a href="https://www.buymeacoffee.com/chem4word">Buy Me A Coffee</a>
 
 <!--
 
