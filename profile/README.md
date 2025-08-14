@@ -1,8 +1,8 @@
-## This is the home for all things realated to Chem4Word.
+## This is the home for all things related to Chem4Word.
 
 Our main web site is at https://www.chem4word.co.uk/
 
-Here you will find out lots of information about Chem4Word including it's history
+Here you will find out lots of information about Chem4Word including its history
 
 We are on <a href="https://fosstodon.org/@chem4word" rel="me">Mastodon</a> - <a href="https://fosstodon.org/@chem4word" rel="me">https://fosstodon.org/@chem4word</a>
 
